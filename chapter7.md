@@ -269,7 +269,7 @@ M1 和 M2 之间的关系，大抵上分为两种：
 
 ### 3. 到 Google Books 上看看有没有可以直接浏览的版本
 
-Google Books 做的非常好，访问地址是http://books.google.com/。很多书籍都可以直接在线阅读；就算没有“Preview”的书籍，也提供检索功能。
+Google Books 做的非常好，访问地址是http://books.google.com/。很多书籍都可以直接在线阅读；就算没有 “Preview” 的书籍，也提供检索功能。
 
 ### 4. 干脆自定义一个专门的搜索引擎
 
