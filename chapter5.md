@@ -62,7 +62,7 @@
  
 学生可能会去查 counteracted（查过之后会懊悔 “怎么这么简单的组合词竟然没有一眼看出来？”），也会去查 roost、predator、vulnerable，以及 prey。然后就觉得 “尽心尽力” 了。可是，“birds of prey” 并不是很多人想当然地以为的 “被捕食的鸟” 而是 “食肉鸟、猛禽”。 
  
-> 如果你没有在前面的章节“2.1 朗读有助于提高文字理解能力”里看到过“birds of prey”的解释，并且之前确实不知道这个词组的含义，请问你自己会主动去查词典吗？ 
+> 如果你没有在前面的章节 “2.1 朗读有助于提高文字理解能力” 里看到过 “birds of prey” 的解释，并且之前确实不知道这个词组的含义，请问你自己会主动去查词典吗？ 
  
 再看一段文字（这是 Collegeboard 网上提供的 Online Course 中阅读练习文章中的一句话）： 
  
@@ -166,7 +166,7 @@ MS Word 从 2007 版本开始内嵌了 “鼠标取词” 功能。其所采用�
 
 ![](images/figure27.png) 
 
-而后在底部 “地址(A)” 之后的文字输入框里输入：“http://office.microsoft.com/Research/query.asmx”而后按“添加”按钮： 
+而后在底部 “地址(A)” 之后的文字输入框里输入：“http://office.microsoft.com/Research/query.asmx”而后按 “添加” 按钮： 
 
 ![](images/figure272.png) 
 
