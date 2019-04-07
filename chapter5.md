@@ -166,7 +166,7 @@ MS Word 从 2007 版本开始内嵌了 “鼠标取词” 功能。其所采用�
 
 ![](images/figure27.png) 
 
-而后在底部 “地址(A)” 之后的文字输入框里输入：“http://office.microsoft.com/Research/query.asmx”而后按 “添加” 按钮： 
+而后在底部 “地址(A)” 之后的文字输入框里输入：“http://office.microsoft.com/Research/query.asmx” 而后按 “添加” 按钮： 
 
 ![](images/figure272.png) 
 
